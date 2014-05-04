@@ -1,4 +1,4 @@
-date: 2014-04-23 21:30:17.138
+date: 2014-04-25 17:43:23.317
 argv: node /usr/local/bin/hexo g
 os: Linux 3.12-kali1-amd64 linux x64
 version:
@@ -13,455 +13,104 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 21:30:16.568 Config file loaded
-[debug] 21:30:16.570 Version info checked successfully
-[debug] 21:30:16.582 Loading database.
-[debug] 21:30:16.599 Script load successfully: fancybox.js
-[debug] 21:30:16.653 Processed: _posts/安装kali-linux的一些问题.md~
-[debug] 21:30:16.662 Processed: favicon.png
-[debug] 21:30:16.932 Processed: LICENSE
-[debug] 21:30:16.932 Processed: README.md
-[debug] 21:30:16.932 Processed: _config.yml.bak
-[debug] 21:30:16.932 Processed: _config.yml~
-[debug] 21:30:16.932 Processed: scripts/fancybox.js
-[debug] 21:30:16.951 Processed: source/css/_base/code.styl
-[debug] 21:30:16.951 Processed: source/css/_base/font.styl
-[debug] 21:30:16.951 Processed: source/css/_base/public.styl
-[debug] 21:30:16.951 Processed: source/css/_base/variable.styl
-[debug] 21:30:16.951 Processed: source/css/_base/variable.styl~
-[debug] 21:30:16.951 Processed: source/css/_partial/article.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/aside.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/duoshuo.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/footer.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/gallery.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/header.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/helper.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/index.styl
-[debug] 21:30:16.958 Processed: source/font/FontAwesome.otf
-[debug] 21:30:16.958 Processed: source/font/coveredbyyourgrace-webfont.eot
-[debug] 21:30:16.959 Processed: source/font/coveredbyyourgrace-webfont.svg
-[debug] 21:30:16.959 Processed: source/font/coveredbyyourgrace-webfont.ttf
-[debug] 21:30:16.959 Processed: source/font/coveredbyyourgrace-webfont.woff
-[debug] 21:30:16.960 Processed: source/font/fontawesome-webfont.eot
-[debug] 21:30:16.960 Processed: source/font/fontawesome-webfont.svg
-[debug] 21:30:16.960 Processed: source/font/fontawesome-webfont.ttf
-[debug] 21:30:16.961 Processed: source/font/fontawesome-webfont.woff
-[debug] 21:30:16.961 Processed: source/img/author.png
-[debug] 21:30:16.962 Processed: source/img/favicon.ico
-[debug] 21:30:16.962 Processed: source/img/logo.svg
-[debug] 21:30:16.962 Processed: source/img/pacman.jpg
-[debug] 21:30:16.963 Processed: source/js/jquery-2.1.0.min.js
-[debug] 21:30:16.963 Processed: source/css/style.styl
-[debug] 21:30:16.964 Processed: source/fancybox/blank.gif
-[debug] 21:30:16.965 Processed: source/fancybox/fancybox_loading.gif
-[debug] 21:30:16.965 Processed: source/fancybox/fancybox_loading@2x.gif
-[debug] 21:30:16.965 Processed: source/fancybox/fancybox_overlay.png
-[debug] 21:30:16.966 Processed: source/fancybox/fancybox_sprite.png
-[debug] 21:30:16.967 Processed: source/fancybox/fancybox_sprite@2x.png
-[debug] 21:30:16.967 Processed: source/fancybox/jquery.fancybox.css
-[debug] 21:30:16.967 Processed: source/fancybox/jquery.fancybox.js
-[debug] 21:30:16.968 Processed: source/fancybox/jquery.fancybox.pack.js
-[debug] 21:30:16.968 Processed: source/fancybox/helpers/fancybox_buttons.png
-[debug] 21:30:16.969 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
-[debug] 21:30:16.970 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
-[debug] 21:30:16.970 Processed: source/fancybox/helpers/jquery.fancybox-media.js
-[debug] 21:30:16.971 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
-[debug] 21:30:16.972 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
-[debug] 21:30:16.987 Processed: layout/archive.ejs
-[debug] 21:30:16.987 Processed: layout/category.ejs
-[debug] 21:30:16.987 Processed: layout/index.ejs
-[debug] 21:30:16.987 Processed: layout/layout.ejs
-[debug] 21:30:16.987 Processed: layout/page.ejs
-[debug] 21:30:16.987 Processed: layout/post.ejs
-[debug] 21:30:16.987 Processed: layout/tag.ejs
-[debug] 21:30:16.987 Processed: layout/_widget/archive.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/category.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/links.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/links.ejs~
-[debug] 21:30:16.988 Processed: layout/_widget/rss.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/tag.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/tagcloud.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/after_footer.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/archive.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/article.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/categories.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/footer.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/google_analytics.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/head.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/header.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/pagination.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/search.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/sidebar.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/tags.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/article.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/catetags.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/comment.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/footer.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/gallery.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/header.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/jiathis.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/pagination.ejs
-[debug] 21:30:17.004 Theme config loaded
-[debug] 21:30:17.004 Processed: _config.yml
-[debug] 21:30:17.004 Processed: languages/default.yml
-[debug] 21:30:17.005 Processed: languages/zh-CN.yml
-[debug] 21:30:17.006 Processed: languages/zh-TW.yml
-[debug] 21:30:17.010 Processed: _posts/chrome应用made，export不能使用的解决办法.md
-[debug] 21:30:17.010 Processed: _posts/hello-world.md
-[debug] 21:30:17.010 Processed: _posts/安装kali-linux的一些问题.md
-[info] 21:30:17.026 Files loaded in 0.426s
-[debug] 21:30:17.030 Cache saved
-[debug] 21:30:17.035 Public folder cleared: archives/index.html,archives/2014/index.html,archives/2014/04/index.html,index.html,2014/04/21/安装kali-linux的一些问题/index.html,2014/04/19/chrome应用made，export不能使用的解决办法/index.html,2014/04/18/hello-world/index.html,tags/Chrome/index.html,tags/Hexo/index.html,tags/MaDe/index.html,tags/Kali/index.html,tags/Linux/index.html,favicon.png,font/FontAwesome.otf,font/coveredbyyourgrace-webfont.eot,font/coveredbyyourgrace-webfont.svg,font/coveredbyyourgrace-webfont.ttf,font/coveredbyyourgrace-webfont.woff,font/fontawesome-webfont.eot,font/fontawesome-webfont.svg,font/fontawesome-webfont.ttf,font/fontawesome-webfont.woff,img/author.png,img/favicon.ico,img/logo.svg,img/pacman.jpg,js/jquery-2.1.0.min.js,css/style.css,fancybox/blank.gif,fancybox/fancybox_loading.gif,fancybox/fancybox_loading@2x.gif,fancybox/fancybox_overlay.png,fancybox/fancybox_sprite.png,fancybox/fancybox_sprite@2x.png,fancybox/jquery.fancybox.css,fancybox/jquery.fancybox.js,fancybox/helpers/fancybox_buttons.png,fancybox/jquery.fancybox.pack.js,fancybox/helpers/jquery.fancybox-buttons.css,fancybox/helpers/jquery.fancybox-buttons.js,fancybox/helpers/jquery.fancybox-media.js,fancybox/helpers/jquery.fancybox-thumbs.css,fancybox/helpers/jquery.fancybox-thumbs.js
-[debug] 21:30:17.037 Render archive: archives/
-[debug] 21:30:17.039 Render archive: archives/2014/
-[debug] 21:30:17.039 Render archive: archives/2014/04/
-[debug] 21:30:17.040 Render index: 
-[debug] 21:30:17.040 Render post: 2014/04/21/安装kali-linux的一些问题/
-[debug] 21:30:17.040 Render post: 2014/04/19/chrome应用made，export不能使用的解决办法/
-[debug] 21:30:17.040 Render post: 2014/04/18/hello-world/
-[debug] 21:30:17.040 Render tag: tags/Chrome/
-[debug] 21:30:17.040 Render tag: tags/Hexo/
-[debug] 21:30:17.041 Render tag: tags/MaDe/
-[debug] 21:30:17.041 Render tag: tags/Kali/
-[debug] 21:30:17.042 Render tag: tags/Linux/
-[error] 21:30:17.123 HexoError: Render failed: index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:89
-    87|     <div id="container">
-    88|       <%- body %>
- >> 89|       <%- partial('_partial/sidebar',{item: page,table: false}) %>
-    90|     </div>
-    91|     <footer><%- partial('_partial/footer') %></footer>
-    92|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3430)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-
-[error] 21:30:17.126 HexoError: Render failed: 2014/04/21/安装kali-linux的一些问题/index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:9
-    7|     <div id="container">
-    8|       <%- body %>
- >> 9|       <%- partial('_partial/sidebar',{item: page,table: true}) %>
-    10|     </div>
-    11|     <footer><%- partial('_partial/footer') %></footer>
-    12|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:324)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-
-[error] 21:30:17.129 HexoError: Render failed: 2014/04/19/chrome应用made，export不能使用的解决办法/index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:9
-    7|     <div id="container">
-    8|       <%- body %>
- >> 9|       <%- partial('_partial/sidebar',{item: page,table: true}) %>
-    10|     </div>
-    11|     <footer><%- partial('_partial/footer') %></footer>
-    12|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:324)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-
-[error] 21:30:17.132 HexoError: Render failed: 2014/04/18/hello-world/index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:9
-    7|     <div id="container">
-    8|       <%- body %>
- >> 9|       <%- partial('_partial/sidebar',{item: page,table: true}) %>
-    10|     </div>
-    11|     <footer><%- partial('_partial/footer') %></footer>
-    12|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:324)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-[debug] 21:30:16.568 Config file loaded
-[debug] 21:30:16.570 Version info checked successfully
-[debug] 21:30:16.582 Loading database.
-[debug] 21:30:16.599 Script load successfully: fancybox.js
-[debug] 21:30:16.653 Processed: _posts/安装kali-linux的一些问题.md~
-[debug] 21:30:16.662 Processed: favicon.png
-[debug] 21:30:16.932 Processed: LICENSE
-[debug] 21:30:16.932 Processed: README.md
-[debug] 21:30:16.932 Processed: _config.yml.bak
-[debug] 21:30:16.932 Processed: _config.yml~
-[debug] 21:30:16.932 Processed: scripts/fancybox.js
-[debug] 21:30:16.951 Processed: source/css/_base/code.styl
-[debug] 21:30:16.951 Processed: source/css/_base/font.styl
-[debug] 21:30:16.951 Processed: source/css/_base/public.styl
-[debug] 21:30:16.951 Processed: source/css/_base/variable.styl
-[debug] 21:30:16.951 Processed: source/css/_base/variable.styl~
-[debug] 21:30:16.951 Processed: source/css/_partial/article.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/aside.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/duoshuo.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/footer.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/gallery.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/header.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/helper.styl
-[debug] 21:30:16.951 Processed: source/css/_partial/index.styl
-[debug] 21:30:16.958 Processed: source/font/FontAwesome.otf
-[debug] 21:30:16.958 Processed: source/font/coveredbyyourgrace-webfont.eot
-[debug] 21:30:16.959 Processed: source/font/coveredbyyourgrace-webfont.svg
-[debug] 21:30:16.959 Processed: source/font/coveredbyyourgrace-webfont.ttf
-[debug] 21:30:16.959 Processed: source/font/coveredbyyourgrace-webfont.woff
-[debug] 21:30:16.960 Processed: source/font/fontawesome-webfont.eot
-[debug] 21:30:16.960 Processed: source/font/fontawesome-webfont.svg
-[debug] 21:30:16.960 Processed: source/font/fontawesome-webfont.ttf
-[debug] 21:30:16.961 Processed: source/font/fontawesome-webfont.woff
-[debug] 21:30:16.961 Processed: source/img/author.png
-[debug] 21:30:16.962 Processed: source/img/favicon.ico
-[debug] 21:30:16.962 Processed: source/img/logo.svg
-[debug] 21:30:16.962 Processed: source/img/pacman.jpg
-[debug] 21:30:16.963 Processed: source/js/jquery-2.1.0.min.js
-[debug] 21:30:16.963 Processed: source/css/style.styl
-[debug] 21:30:16.964 Processed: source/fancybox/blank.gif
-[debug] 21:30:16.965 Processed: source/fancybox/fancybox_loading.gif
-[debug] 21:30:16.965 Processed: source/fancybox/fancybox_loading@2x.gif
-[debug] 21:30:16.965 Processed: source/fancybox/fancybox_overlay.png
-[debug] 21:30:16.966 Processed: source/fancybox/fancybox_sprite.png
-[debug] 21:30:16.967 Processed: source/fancybox/fancybox_sprite@2x.png
-[debug] 21:30:16.967 Processed: source/fancybox/jquery.fancybox.css
-[debug] 21:30:16.967 Processed: source/fancybox/jquery.fancybox.js
-[debug] 21:30:16.968 Processed: source/fancybox/jquery.fancybox.pack.js
-[debug] 21:30:16.968 Processed: source/fancybox/helpers/fancybox_buttons.png
-[debug] 21:30:16.969 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
-[debug] 21:30:16.970 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
-[debug] 21:30:16.970 Processed: source/fancybox/helpers/jquery.fancybox-media.js
-[debug] 21:30:16.971 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
-[debug] 21:30:16.972 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
-[debug] 21:30:16.987 Processed: layout/archive.ejs
-[debug] 21:30:16.987 Processed: layout/category.ejs
-[debug] 21:30:16.987 Processed: layout/index.ejs
-[debug] 21:30:16.987 Processed: layout/layout.ejs
-[debug] 21:30:16.987 Processed: layout/page.ejs
-[debug] 21:30:16.987 Processed: layout/post.ejs
-[debug] 21:30:16.987 Processed: layout/tag.ejs
-[debug] 21:30:16.987 Processed: layout/_widget/archive.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/category.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/links.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/links.ejs~
-[debug] 21:30:16.988 Processed: layout/_widget/rss.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/tag.ejs
-[debug] 21:30:16.988 Processed: layout/_widget/tagcloud.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/after_footer.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/archive.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/article.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/categories.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/footer.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/google_analytics.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/head.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/header.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/pagination.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/search.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/sidebar.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/tags.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/article.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/catetags.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/comment.ejs
-[debug] 21:30:16.988 Processed: layout/_partial/post/footer.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/gallery.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/header.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/jiathis.ejs
-[debug] 21:30:16.989 Processed: layout/_partial/post/pagination.ejs
-[debug] 21:30:17.004 Theme config loaded
-[debug] 21:30:17.004 Processed: _config.yml
-[debug] 21:30:17.004 Processed: languages/default.yml
-[debug] 21:30:17.005 Processed: languages/zh-CN.yml
-[debug] 21:30:17.006 Processed: languages/zh-TW.yml
-[debug] 21:30:17.010 Processed: _posts/chrome应用made，export不能使用的解决办法.md
-[debug] 21:30:17.010 Processed: _posts/hello-world.md
-[debug] 21:30:17.010 Processed: _posts/安装kali-linux的一些问题.md
-[info] 21:30:17.026 Files loaded in 0.426s
-[debug] 21:30:17.030 Cache saved
-[debug] 21:30:17.035 Public folder cleared: archives/index.html,archives/2014/index.html,archives/2014/04/index.html,index.html,2014/04/21/安装kali-linux的一些问题/index.html,2014/04/19/chrome应用made，export不能使用的解决办法/index.html,2014/04/18/hello-world/index.html,tags/Chrome/index.html,tags/Hexo/index.html,tags/MaDe/index.html,tags/Kali/index.html,tags/Linux/index.html,favicon.png,font/FontAwesome.otf,font/coveredbyyourgrace-webfont.eot,font/coveredbyyourgrace-webfont.svg,font/coveredbyyourgrace-webfont.ttf,font/coveredbyyourgrace-webfont.woff,font/fontawesome-webfont.eot,font/fontawesome-webfont.svg,font/fontawesome-webfont.ttf,font/fontawesome-webfont.woff,img/author.png,img/favicon.ico,img/logo.svg,img/pacman.jpg,js/jquery-2.1.0.min.js,css/style.css,fancybox/blank.gif,fancybox/fancybox_loading.gif,fancybox/fancybox_loading@2x.gif,fancybox/fancybox_overlay.png,fancybox/fancybox_sprite.png,fancybox/fancybox_sprite@2x.png,fancybox/jquery.fancybox.css,fancybox/jquery.fancybox.js,fancybox/helpers/fancybox_buttons.png,fancybox/jquery.fancybox.pack.js,fancybox/helpers/jquery.fancybox-buttons.css,fancybox/helpers/jquery.fancybox-buttons.js,fancybox/helpers/jquery.fancybox-media.js,fancybox/helpers/jquery.fancybox-thumbs.css,fancybox/helpers/jquery.fancybox-thumbs.js
-[debug] 21:30:17.037 Render archive: archives/
-[debug] 21:30:17.039 Render archive: archives/2014/
-[debug] 21:30:17.039 Render archive: archives/2014/04/
-[debug] 21:30:17.040 Render index: 
-[debug] 21:30:17.040 Render post: 2014/04/21/安装kali-linux的一些问题/
-[debug] 21:30:17.040 Render post: 2014/04/19/chrome应用made，export不能使用的解决办法/
-[debug] 21:30:17.040 Render post: 2014/04/18/hello-world/
-[debug] 21:30:17.040 Render tag: tags/Chrome/
-[debug] 21:30:17.040 Render tag: tags/Hexo/
-[debug] 21:30:17.041 Render tag: tags/MaDe/
-[debug] 21:30:17.041 Render tag: tags/Kali/
-[debug] 21:30:17.042 Render tag: tags/Linux/
-[error] 21:30:17.123 HexoError: Render failed: index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:89
-    87|     <div id="container">
-    88|       <%- body %>
- >> 89|       <%- partial('_partial/sidebar',{item: page,table: false}) %>
-    90|     </div>
-    91|     <footer><%- partial('_partial/footer') %></footer>
-    92|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3430)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-
-[error] 21:30:17.126 HexoError: Render failed: 2014/04/21/安装kali-linux的一些问题/index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:9
-    7|     <div id="container">
-    8|       <%- body %>
- >> 9|       <%- partial('_partial/sidebar',{item: page,table: true}) %>
-    10|     </div>
-    11|     <footer><%- partial('_partial/footer') %></footer>
-    12|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:324)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-
-[error] 21:30:17.129 HexoError: Render failed: 2014/04/19/chrome应用made，export不能使用的解决办法/index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:9
-    7|     <div id="container">
-    8|       <%- body %>
- >> 9|       <%- partial('_partial/sidebar',{item: page,table: true}) %>
-    10|     </div>
-    11|     <footer><%- partial('_partial/footer') %></footer>
-    12|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:324)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
-
-[error] 21:30:17.132 HexoError: Render failed: 2014/04/18/hello-world/index.html
-TypeError: /root/Blog/themes/pacman/layout/layout.ejs:9
-    7|     <div id="container">
-    8|       <%- body %>
- >> 9|       <%- partial('_partial/sidebar',{item: page,table: true}) %>
-    10|     </div>
-    11|     <footer><%- partial('_partial/footer') %></footer>
-    12|     <%- partial('_partial/after_footer') %>
-
-/root/Blog/themes/pacman/layout/_partial/sidebar.ejs:11
-    9| <div class="closeaside"><a class="closebutton" href="#" title="<%= __('hidesidebar') %>"></a></div>
-    10| <aside class="clearfix">
- >> 11| <% theme.widgets.forEach(function(widget){ %>
-    12|   <%- partial('../_widget/' + widget) %>
-    13| <% }); %>
-    14| </aside>
-
-Cannot call method 'forEach' of null
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:662)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:828)
-    at /usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:250:15
-    at Object.exports.render (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:288:13)
-    at module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/renderer/ejs.js:5:14)
-    at Object.exports.renderSync (/usr/local/lib/node_modules/hexo/lib/core/render.js:133:12)
-    at View.renderSync (/usr/local/lib/node_modules/hexo/lib/theme/view.js:183:28)
-    at Object.module.exports (/usr/local/lib/node_modules/hexo/lib/plugins/helper/partial.js:19:17)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:324)
-    at eval (eval at <anonymous> (/usr/local/lib/node_modules/hexo/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:29:3710)
+[debug] 17:43:22.833 Config file loaded
+[debug] 17:43:22.834 Version info checked successfully
+[debug] 17:43:22.847 Loading database.
+[debug] 17:43:22.884 Plugin loaded successfully: hexo-generator-feed
+[debug] 17:43:22.902 Plugin loaded successfully: hexo-generator-sitemap
+[debug] 17:43:22.904 Script load successfully: fancybox.js
+[debug] 17:43:22.952 Processed: favicon.png
+[debug] 17:43:23.203 Processed: LICENSE
+[debug] 17:43:23.203 Processed: README.md
+[debug] 17:43:23.203 Processed: _config.yml~
+[debug] 17:43:23.204 Processed: scripts/fancybox.js
+[debug] 17:43:23.223 Processed: source/css/_base/code.styl
+[debug] 17:43:23.223 Processed: source/css/_base/font.styl
+[debug] 17:43:23.223 Processed: source/css/_base/public.styl
+[debug] 17:43:23.223 Processed: source/css/_base/variable.styl
+[debug] 17:43:23.223 Processed: source/css/_base/variable.styl~
+[debug] 17:43:23.223 Processed: source/css/_partial/article.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/aside.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/duoshuo.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/footer.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/gallery.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/header.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/helper.styl
+[debug] 17:43:23.223 Processed: source/css/_partial/index.styl
+[debug] 17:43:23.230 Processed: source/font/FontAwesome.otf
+[debug] 17:43:23.230 Processed: source/font/coveredbyyourgrace-webfont.eot
+[debug] 17:43:23.230 Processed: source/font/coveredbyyourgrace-webfont.svg
+[debug] 17:43:23.230 Processed: source/font/coveredbyyourgrace-webfont.ttf
+[debug] 17:43:23.231 Processed: source/font/coveredbyyourgrace-webfont.woff
+[debug] 17:43:23.231 Processed: source/font/fontawesome-webfont.eot
+[debug] 17:43:23.231 Processed: source/font/fontawesome-webfont.svg
+[debug] 17:43:23.232 Processed: source/font/fontawesome-webfont.ttf
+[debug] 17:43:23.232 Processed: source/font/fontawesome-webfont.woff
+[debug] 17:43:23.233 Processed: source/img/author.png
+[debug] 17:43:23.233 Processed: source/img/favicon.ico
+[debug] 17:43:23.234 Processed: source/img/logo.svg
+[debug] 17:43:23.234 Processed: source/img/pacman.jpg
+[debug] 17:43:23.235 Processed: source/js/jquery-2.1.0.min.js
+[debug] 17:43:23.235 Processed: source/css/style.styl
+[debug] 17:43:23.236 Processed: source/fancybox/blank.gif
+[debug] 17:43:23.236 Processed: source/fancybox/fancybox_loading.gif
+[debug] 17:43:23.236 Processed: source/fancybox/fancybox_loading@2x.gif
+[debug] 17:43:23.237 Processed: source/fancybox/fancybox_overlay.png
+[debug] 17:43:23.238 Processed: source/fancybox/fancybox_sprite.png
+[debug] 17:43:23.238 Processed: source/fancybox/fancybox_sprite@2x.png
+[debug] 17:43:23.239 Processed: source/fancybox/jquery.fancybox.css
+[debug] 17:43:23.239 Processed: source/fancybox/jquery.fancybox.js
+[debug] 17:43:23.240 Processed: source/fancybox/jquery.fancybox.pack.js
+[debug] 17:43:23.240 Processed: source/fancybox/helpers/fancybox_buttons.png
+[debug] 17:43:23.241 Processed: source/fancybox/helpers/jquery.fancybox-buttons.css
+[debug] 17:43:23.241 Processed: source/fancybox/helpers/jquery.fancybox-buttons.js
+[debug] 17:43:23.243 Processed: source/fancybox/helpers/jquery.fancybox-media.js
+[debug] 17:43:23.244 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.css
+[debug] 17:43:23.244 Processed: source/fancybox/helpers/jquery.fancybox-thumbs.js
+[debug] 17:43:23.297 Processed: layout/archive.ejs
+[debug] 17:43:23.297 Processed: layout/category.ejs
+[debug] 17:43:23.297 Processed: layout/index.ejs
+[debug] 17:43:23.297 Processed: layout/layout.ejs
+[debug] 17:43:23.297 Processed: layout/page.ejs
+[debug] 17:43:23.297 Processed: layout/post.ejs
+[debug] 17:43:23.297 Processed: layout/tag.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/archive.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/category.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/link.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/link.ejs~
+[debug] 17:43:23.297 Processed: layout/_widget/links.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/links.ejs~
+[debug] 17:43:23.297 Processed: layout/_widget/rss.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/tag.ejs
+[debug] 17:43:23.297 Processed: layout/_widget/tagcloud.ejs
+[debug] 17:43:23.297 Processed: layout/_partial/after_footer.ejs
+[debug] 17:43:23.297 Processed: layout/_partial/archive.ejs
+[debug] 17:43:23.297 Processed: layout/_partial/article.ejs
+[debug] 17:43:23.297 Processed: layout/_partial/categories.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/footer.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/google_analytics.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/head.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/header.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/pagination.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/search.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/sidebar.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/tags.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/article.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/catetags.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/comment.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/footer.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/gallery.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/header.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/jiathis.ejs
+[debug] 17:43:23.298 Processed: layout/_partial/post/pagination.ejs
+[error] 17:43:23.311 { rawMessage: 'Unable to parse.',
+  parsedLine: 61,
+  snippet: '  google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998',
+  parsedFile: null,
+  message: 'Process failed: _config.yml',
+  name: 'HexoError',
+  stack: undefined }
+[debug] 17:43:23.316 Processed: languages/default.yml
+[debug] 17:43:23.317 Processed: languages/zh-CN.yml
+[debug] 17:43:23.317 Processed: languages/zh-TW.yml
+[debug] 17:43:23.323 Processed: _posts/chrome应用made，export不能使用的解决办法.md

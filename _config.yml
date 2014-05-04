@@ -5,7 +5,7 @@
 # Site
 title: Redi0's blog
 subtitle: "一个老菜鸟^ ^~~"
-description: Redi0's blog | java | windows | hack | hacker
+description: Redi0's blog  hacker  博客 黑客
 author: Redi0
 email: redi0@live.com
 language: zh-cn
@@ -104,3 +104,7 @@ deploy:
   type: github
   repository: git@gitcafe.com:Redi0/Redi0.git
   branch: gitcafe-pages
+
+plugins:
+- hexo-generator-sitemap
+- hexo-generator-feed

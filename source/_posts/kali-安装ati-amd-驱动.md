@@ -2,6 +2,7 @@ title: Kali 安装ATI AMD 驱动
 date: 2014-04-25 16:01:51
 tags: [Kali,ATI,Linux]
 toc: false
+categories: Linux
 ---
 
 
